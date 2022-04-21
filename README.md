@@ -28,6 +28,8 @@ My name is Roby Julian, I'm a Data Scientist and Storytaller. I'm fresh graduate
 ![](https://img.shields.io/badge/Editor-RStudio-Studio?style=flat&logo=rstudio&logoColor=white&color=75AADB)
 ![](https://img.shields.io/badge/Editor-Andoid-Studio?style=flat&logo=androidstudio&logoColor=white&color=3DDC84)
 ![](https://img.shields.io/badge/Editor-VSCode-Studio?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Editor-Jupyter-Studio?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Editor-GoogleColab-Studio?style=flat&logo=googlecolab&logoColor=white&color=F9AB00)
 <!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
