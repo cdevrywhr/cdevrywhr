@@ -1,6 +1,6 @@
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Roby Julian and I'm a Data Scientist and Storytaller. I'm fresh graduate of informatics engineering.
+My name is Roby Julian, I'm a Data Scientist and Storytaller. I'm fresh graduate of informatics engineering.
 
 [![Linkedin Badge](https://img.shields.io/badge/-robyjulian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roby-julian-931525151/)](https://www.linkedin.com/in/roby-julian-931525151/)
 [![Instagram Badge](https://img.shields.io/badge/-@robyjulian_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/robyjulian_/)](https://instagram.com/robyjulian_)
