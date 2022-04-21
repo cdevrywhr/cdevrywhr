@@ -1,38 +1,28 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+# Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Roby Julian and I'm a Data Scientist and Storytaller. I'm fresh graduate of informatics engineering.
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+[![Linkedin Badge](https://img.shields.io/badge/-robyjulian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roby-julian-931525151/)](https://www.linkedin.com/in/roby-julian-931525151/)
+[![Instagram Badge](https://img.shields.io/badge/-@robyjulian_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/robyjulian_/)](https://instagram.com/robyjulian_)
+[![Gmail Badge](https://img.shields.io/badge/-robyjulian212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:robyjulian212@gmail.com)](mailto:robyjulian212@gmail.com)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim) 
+[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)-->
+
+
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi)
-- [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
-- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-<!-- BLOG-POST-LIST:END -->
-
-## &#x1f4c8; GitHub Stats
+![](https://img.shields.io/badge/Code-R-Studio?style=flat&logo=r&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-Java-Studio?style=flat&logo=java&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-CI-Studio?style=flat&logo=codeigniter&logoColor=white&color=EF4223)
+![](https://img.shields.io/badge/Code-Django-Studio?style=flat&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/DB-MySQL-Studio?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/DB-SQLServer-Studio?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/Editor-RStudio-Studio?style=flat&logo=rstudio&logoColor=white&color=75AADB)
+![](https://img.shields.io/badge/Editor-Andoid-Studio?style=flat&logo=androidstudio&logoColor=white&color=3DDC84)
+![](https://img.shields.io/badge/Editor-VSCode-Studio?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -49,27 +39,7 @@ A sample of my recent articles:
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
+ -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
