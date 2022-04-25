@@ -1,4 +1,4 @@
-# Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Roby Julian, I'm a Data Scientist and Storytaller. I'm fresh graduate of informatics engineering.
 
